@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    margin-top: 20%;
+}
+
+p {
+	text-align: justify;
+	font-weight: bold;
+}
+
+.container {
+    text-align: center;
+}
+/* Styling Navbar */
+
+.navbar{
+	margin:0;
+}
+
+.navbar-brand {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand img {
+    max-height: 100%;
+}
+
+/* Styles for background image */
+
+.backpic {
+    background-image: url(../../img/presentationBackground.jpg);
+    background-size: cover;
+    height:95vh;
+}
+
+.mainH {
+    color: white;
+    font: bolder;
+}
